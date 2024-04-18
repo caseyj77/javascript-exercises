@@ -14,3 +14,12 @@ leapYears(1985) // is not a leap year: returns false
 
 ## Hints
 - use an `if` statement and `&&` to make sure all the conditions are met properly
+
+
+## My notes
+- Check if the number is divisable by 4 and return true
+- if number is 2000 is it divisable by 400 return true
+    - divisible by 100 and 4? will this work?
+    divisible by 4 and 100 with no remainer or by 4 and 100 with a remainder
+    
+    
